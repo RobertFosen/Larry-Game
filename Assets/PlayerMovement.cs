@@ -43,4 +43,9 @@ public class PlayerMovement : MonoBehaviour
             transform.Rotate(Vector3.up, turnSpeed * Time.deltaTime);
         }
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        
+    }
 }

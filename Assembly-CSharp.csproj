@@ -62,6 +62,8 @@
   <ItemGroup>
     <Compile Include="Assets\ArmScript.cs" />
     <Compile Include="Assets\CameraFollow.cs" />
+    <Compile Include="Assets\MoveObject.cs" />
+    <Compile Include="Assets\Pickup.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
     <Compile Include="Assets\TransformFollower.cs" />
     <Reference Include="Unity.ProGrids">
